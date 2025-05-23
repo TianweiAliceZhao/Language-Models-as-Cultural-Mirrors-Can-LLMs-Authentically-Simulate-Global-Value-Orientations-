@@ -6,10 +6,10 @@ This repository supports the research project _"Language Models as Cultural Mirr
 ## Folder Structure
 
 ### Data
-Contains raw and processed datasets used for cultural value assessments, including model responses, country benchmarks from GLOBE, and model metadata.
+Contains raw and processed datasets used for cultural value assessments, including model responses and country benchmarks from GLOBE.
 
 ### Code
-Includes Google Colab code for data cleaning, analysis, model querying, scoring mechanisms, and cultural alignment evaluations.
+Includes Python code for model querying and data manipulation.
 
 ### Questionnaires and Prompts
 Stores the standardized value orientation surveys and prompt templates used to elicit responses from different LLMs, aligned with GLOBE dimensions.
